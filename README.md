@@ -2,4 +2,4 @@
 Repository for my solutions to Leetcode challenges
 
 ## Easy
-- [Roman to Integer](https://github.com/txmx13/leetcode/blob/main/roman_to_int.py)
+- [Roman Numeral to Integer Converter](https://github.com/txmx13/leetcode/blob/main/roman_to_int.py)
